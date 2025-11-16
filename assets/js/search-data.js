@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-the-university-of-lethbridge-as-a-tenure-track-assistant-professor-in-the-department-of-mathematics-amp-amp-computer-science",
+            },},{id: "news-i-joined-the-university-of-lethbridge-as-a-tenure-track-assistant-professor-in-the-department-of-mathematics-amp-amp-computer-science-view-faculty-profile",
           title: 'I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the...',
           description: "",
           section: "News",},{id: "news-our-new-preprint-compositional-system-dynamics-the-higher-mathematics-underlying-system-dynamics-diagrams-amp-amp-practice-is-now-available-on-arxiv",
