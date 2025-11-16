@@ -2,7 +2,7 @@
 layout: post
 title: NSERC Discovery Grant Application Submitted
 date: 2025-11-01
-inline: false
+inline: true
 related_posts: false
 ---
 
