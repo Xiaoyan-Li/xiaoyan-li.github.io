@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint *"Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams & Practice"* has been posted to arXiv.
+Our new preprint *Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams & Practice* is now available on [arXiv](https://arxiv.org/abs/2509.18475).
