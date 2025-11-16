@@ -415,7 +415,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-cms-winter-meeting-mini-course-upcoming",
+            },},{id: "news-my-nserc-discovery-grant-dg-application-has-been-successfully-submitted",
+          title: 'My NSERC Discovery Grant (DG) application has been successfully submitted.',
+          description: "",
+          section: "News",},{id: "news-cms-winter-meeting-mini-course-upcoming",
           title: 'CMS Winter Meeting Mini-Course (Upcoming)',
           description: "",
           section: "News",handler: () => {
