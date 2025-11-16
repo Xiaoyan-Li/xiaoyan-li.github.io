@@ -6,14 +6,98 @@ nav: true
 nav_order: 1
 ---
 
-My research lies at the intersection of **mathematics**, **computer science**, and **public health**, focusing on the development of **compositional and data-driven modeling frameworks** for complex systems.
+My research builds mathematical and computational bridges between theory and real-world decision-making.  
+I work at the intersection of applied category theory, Bayesian machine learning, and dynamic system modeling, developing composable and data-informed approaches to understand complex adaptive systems—especially in public health and epidemiology.  
+The ultimate goal is to create modeling tools that are modular, interpretable, and useful for guiding policy and intervention.
 
-I draw upon **applied category theory**, **system dynamics**, and **machine learning** to create modular, interpretable, and evolvable tools that integrate dynamic simulation with artificial intelligence. These methods are applied across a range of domains, particularly in **public health** and **epidemiological modeling**.
+<p align="center">
+  <img src="/assets/img/research-overview.png" alt="Research overview" style="max-width:90%; border-radius:10px; margin:1em 0;">
+</p>
+<p style="text-align:center; color:gray; font-size:0.9em;">
+  Conceptual overview of my research program.
+</p>
 
-## Current research directions
+---
 
-- **Compositional dynamic modeling** — advancing formal frameworks for modular system dynamics and agent-based modeling.
-- **AI-assisted simulation** — integrating deep learning and probabilistic inference within dynamic system models.
-- **Public health applications** — developing decision-support tools for infectious disease forecasting and intervention evaluation.
+<p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+Research Interests
+</p>
 
-If you are interested in working on topics related to **compositional modeling**, **machine learning**, or **AI in public health**, please visit the [Join](/join/) page for information about available opportunities.
+My program integrates mathematical theory, software infrastructure, and data-driven modeling to advance compositional and interpretable frameworks for dynamic systems.  
+It consists of two deeply interconnected lines—one *theory-driven*, rooted in category theory, and one *application-driven*, motivated by urgent societal challenges.
+
+---
+
+<p class="h4 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+1️⃣ 🧩 Theory-Driven Line — Category Theory for Next-Generation Dynamic System Modeling
+</p>
+
+We ask how mathematics can serve as a language for modeling change, and how it can reveal the hidden structures of dynamic models. This line reconstructs the mathematical foundations of dynamic modeling using applied category theory and translates these insights into open-source computational tools that make model composition transparent and rigorous.
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">a. Theoretical frameworks</p>
+
+We apply category-theoretic methodologies to a range of dynamic modeling paradigms—including  
+System Dynamics (SD), Agent-Based Modeling (ABM), Discrete-Event Simulation (DES), and Bayesian machine learning–based data-driven dynamic models — to construct modular, composable, and structure-preserving frameworks for next-generation dynamic modeling.
+
+This theoretical groundwork enables interoperability and structure-preserving transformations across paradigms, paving the way for a new generation of modular, mathematically sound modeling environments.
+
+<div class="img-row" style="display:flex; justify-content:center; align-items:center; gap:3rem; margin:1rem 0;">
+  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram" style="width:38%; border-radius:8px;">
+  <img src="/assets/img/sirvcompose.png" alt="Pullback square example" style="width:38%; border-radius:8px;">
+</div>
+<p class="img-caption" style="text-align:center;">
+  Categorical views of compositional modeling.
+</p>
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">b. Open-source software ecosystem</p>
+
+To make these ideas tangible, my group develops open-source software within the AlgebraicJulia ecosystem, creating next-generation dynamic modeling tools—particularly for public health applications.  
+These platforms aim to make model construction reusable, auditable, and collaborative across mathematics, computer science, and domain sciences.
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">🎓 Ideal Student Profile</p>
+
+Students with backgrounds in pure mathematics, theoretical computer science, or mathematical logic are well-suited.  
+Curiosity about category theory and enthusiasm for connecting abstract ideas with computational tools are especially valued.
+
+---
+
+<p class="h4 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+2️⃣ 🚀 Application-Driven Line — Dynamic Modeling for Real-World Decision-Making
+</p>
+
+This line focuses on computational dynamic modeling methodologies, Bayesian machine learning algorithms, and large-scale observational data to simulate real-world problems and support better decision-making in public health.  
+We combine mechanistic insight with statistical learning to understand how behavior, policy, and disease dynamics co-evolve over time.
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">a. Bayesian ML for data-informed decision support</p>
+
+We develop Bayesian dynamic models—including Particle Filtering, MCMC, Particle MCMC, and Kalman Filtering—that integrate observational data with mechanistic structure.  
+These models enable probabilistic reasoning while using dynamic systems to transparently represent the underlying structures of real-world problems.  
+Observed data often provide only partial views of these systems; therefore, we apply Bayesian machine learning algorithms to infer and reconstruct the hidden dynamics, revealing and resolving the full complexity of the system in a transparent way.
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">b. Modeling complex adaptive systems</p>
+
+We combine System Dynamics for population-level flows, Agent-Based Modeling for individual behaviors, and Discrete-Event Modeling for event-driven processes into hybrid architectures that capture multiple scales of interaction.  
+Such models allow us to simulate epidemics, evaluate interventions, and design more resilient public health strategies.
+
+<div class="img-row" style="display:flex; justify-content:center; align-items:center; gap:3rem; margin:1.5rem 0;">
+  <img src="/assets/img/covidmodel.png" alt="COVID-19 modeling example" style="width:38%; border-radius:8px;">
+  <img src="/assets/img/breastfeeding.png" alt="Breastfeeding intervention model" style="width:38%; border-radius:8px;">
+</div>
+<p class="img-caption" style="text-align:center; color:#777; font-size:0.9em; margin-top:0.6rem;">
+  Data-informed and hybrid dynamic modeling for public-health applications.
+</p>
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">🎓 Ideal Student Profile</p>
+
+Students with training in applied mathematics, statistics, machine learning, or computational modeling are encouraged to join.  
+Those excited by real-world applications—from epidemiological forecasting to behavioral interventions—will find many opportunities to contribute.
+
+---
+
+<p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+🌐 Integration and Vision
+</p>
+
+The two research lines are mutually reinforcing:  
+the theoretical frameworks provide mathematical coherence and composability, while the applications reveal new structural and computational challenges that shape the theory.  
+Together they advance a unified vision of compositional, Bayesian, and data-driven modeling—a language for understanding and steering complex adaptive systems.
