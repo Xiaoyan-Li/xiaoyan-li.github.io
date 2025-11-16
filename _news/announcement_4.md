@@ -1,0 +1,10 @@
+---
+layout: post
+title: Joined the University of Lethbridge as Tenure-Track Assistant Professor
+date: 2025-07-01
+inline: false
+related_posts: false
+categories: [news]
+---
+
+I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the Department of Mathematics & Computer Science.
