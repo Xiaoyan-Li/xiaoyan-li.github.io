@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Compositional System Dynamics — New arXiv Preprint Posted
+date: 2025-09-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our new preprint *"Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams & Practice"* has been posted to arXiv.
