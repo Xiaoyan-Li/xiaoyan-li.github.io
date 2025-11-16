@@ -410,18 +410,22 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-our-new-preprint-compositional-system-dynamics-the-higher-mathematics-underlying-system-dynamics-diagrams-amp-amp-practice-has-been-posted-to-arxiv",
-          title: 'Our new preprint “Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams...',
+            },},{id: "news-compositional-system-dynamics-new-arxiv-preprint-posted",
+          title: 'Compositional System Dynamics — New arXiv Preprint Posted',
           description: "",
-          section: "News",},{id: "news-cms-winter-meeting-mini-course-upcoming",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-cms-winter-meeting-mini-course-upcoming",
           title: 'CMS Winter Meeting Mini-Course (Upcoming)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
-          title: 'I will give a research presentation at the Joint Mathematics Meetings (JMM) in...',
+            },},{id: "news-presentation-at-jmm-upcoming",
+          title: 'Presentation at JMM (Upcoming)',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
