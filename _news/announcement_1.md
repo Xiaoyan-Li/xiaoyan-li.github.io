@@ -2,7 +2,7 @@
 layout: post
 title: CMS Winter Meeting Mini-Course (Upcoming)
 date: 2025-12-05
-inline: true
+inline: false
 related_posts: false
 ---
 
