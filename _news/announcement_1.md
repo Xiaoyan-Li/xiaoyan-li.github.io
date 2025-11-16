@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will co-instruct the CMS Winter Meeting Mini-Course [*"Introduction to Categorical Computing with Catlab"*](https://winter25.cms.math.ca/mini-courses) in Toronto, Canada.
+I will co-instruct the CMS Winter Meeting Mini-Course [*Introduction to Categorical Computing with Catlab*](https://winter25.cms.math.ca/mini-courses) in Toronto, Canada.
