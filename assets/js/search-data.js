@@ -417,7 +417,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-co-instruct-the-cms-winter-meeting-mini-course-introduction-to-categorical-computing-with-catlab-in-toronto-canada",
           title: 'I will co-instruct the CMS Winter Meeting Mini-Course “Introduction to Categorical Computing with...',
           description: "",
-          section: "News",},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
+          section: "News",},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle-usa-as-part-of-the-special-session-on-applied-category-theory",
           title: 'I will give a research presentation at the Joint Mathematics Meetings (JMM) in...',
           description: "",
           section: "News",},{id: "projects-project-1",
