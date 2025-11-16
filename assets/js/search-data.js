@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-new-preprint-compositional-system-dynamics-the-higher-mathematics-underlying-system-dynamics-diagrams-amp-amp-practice-has-been-posted-to-arxiv",
+          title: 'Our new preprint “Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-will-co-instruct-the-cms-winter-meeting-mini-course-introduction-to-categorical-computing-with-catlab-in-toronto",
+          title: 'I will co-instruct the CMS Winter Meeting Mini-Course “Introduction to Categorical Computing with...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
+          title: 'I will give a research presentation at the Joint Mathematics Meetings (JMM) in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
