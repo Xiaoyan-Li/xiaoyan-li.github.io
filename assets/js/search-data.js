@@ -419,12 +419,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-presentation-at-jmm-upcoming",
-          title: 'Presentation at JMM (Upcoming)',
+            },},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
+          title: 'I will give a research presentation at the Joint Mathematics Meetings (JMM) in...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
