@@ -408,12 +408,10 @@ ninja.data = [{
             },},{id: "news-i-joined-the-university-of-lethbridge-as-a-tenure-track-assistant-professor-in-the-department-of-mathematics-amp-amp-computer-science",
           title: 'I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the...',
           description: "",
-          section: "News",},{id: "news-compositional-system-dynamics-new-arxiv-preprint-posted",
-          title: 'Compositional System Dynamics — New arXiv Preprint Posted',
+          section: "News",},{id: "news-our-new-preprint-compositional-system-dynamics-the-higher-mathematics-underlying-system-dynamics-diagrams-amp-amp-practice-has-been-posted-to-arxiv",
+          title: 'Our new preprint “Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-my-nserc-discovery-grant-dg-application-has-been-successfully-submitted",
+          section: "News",},{id: "news-my-nserc-discovery-grant-dg-application-has-been-successfully-submitted",
           title: 'My NSERC Discovery Grant (DG) application has been successfully submitted.',
           description: "",
           section: "News",},{id: "news-cms-winter-meeting-mini-course-upcoming",
