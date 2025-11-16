@@ -405,12 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-the-university-of-lethbridge-as-tenure-track-assistant-professor",
-          title: 'Joined the University of Lethbridge as Tenure-Track Assistant Professor',
+            },},{id: "news-i-joined-the-university-of-lethbridge-as-a-tenure-track-assistant-professor-in-the-department-of-mathematics-amp-amp-computer-science",
+          title: 'I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-compositional-system-dynamics-new-arxiv-preprint-posted",
+          section: "News",},{id: "news-compositional-system-dynamics-new-arxiv-preprint-posted",
           title: 'Compositional System Dynamics — New arXiv Preprint Posted',
           description: "",
           section: "News",handler: () => {
