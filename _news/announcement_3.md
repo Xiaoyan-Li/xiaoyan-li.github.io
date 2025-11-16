@@ -2,7 +2,7 @@
 layout: post
 title: Compositional System Dynamics — New arXiv Preprint Posted
 date: 2025-09-22
-inline: true
+inline: false
 related_posts: false
 ---
 
