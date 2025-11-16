@@ -413,13 +413,17 @@ ninja.data = [{
             },},{id: "news-our-new-preprint-compositional-system-dynamics-the-higher-mathematics-underlying-system-dynamics-diagrams-amp-amp-practice-has-been-posted-to-arxiv",
           title: 'Our new preprint “Compositional System Dynamics: The Higher Mathematics Underlying System Dynamics Diagrams...',
           description: "",
-          section: "News",},{id: "news-i-will-co-instruct-the-cms-winter-meeting-mini-course-introduction-to-categorical-computing-with-catlab-in-toronto",
-          title: 'I will co-instruct the CMS Winter Meeting Mini-Course “Introduction to Categorical Computing with...',
+          section: "News",},{id: "news-cms-winter-meeting-mini-course-upcoming",
+          title: 'CMS Winter Meeting Mini-Course (Upcoming)',
           description: "",
-          section: "News",},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
-          title: 'I will give a research presentation at the Joint Mathematics Meetings (JMM) in...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-presentation-at-jmm-upcoming",
+          title: 'Presentation at JMM (Upcoming)',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
