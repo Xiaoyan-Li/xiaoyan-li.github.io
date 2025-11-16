@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the Department of Mathematics & Computer Science.
+I joined the University of Lethbridge as a Tenure-Track Assistant Professor in the Department of Mathematics & Computer Science ([View faculty profile](https://www.ulethbridge.ca/artsci/math-computer-science/computer-science-faculty)).
