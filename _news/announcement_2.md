@@ -2,7 +2,7 @@
 layout: post
 title: Presentation at JMM (Upcoming)
 date: 2026-01-07
-inline: false
+inline: true
 related_posts: false
 ---
 
