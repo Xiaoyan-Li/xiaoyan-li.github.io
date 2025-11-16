@@ -414,7 +414,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-nserc-discovery-grant-dg-application-has-been-successfully-submitted",
           title: 'My NSERC Discovery Grant (DG) application has been successfully submitted.',
           description: "",
-          section: "News",},{id: "news-i-will-co-instruct-the-cms-winter-meeting-mini-course-introduction-to-categorical-computing-with-catlab-in-toronto",
+          section: "News",},{id: "news-i-will-co-instruct-the-cms-winter-meeting-mini-course-introduction-to-categorical-computing-with-catlab-in-toronto-canada",
           title: 'I will co-instruct the CMS Winter Meeting Mini-Course “Introduction to Categorical Computing with...',
           description: "",
           section: "News",},{id: "news-i-will-give-a-research-presentation-at-the-joint-mathematics-meetings-jmm-in-seattle",
