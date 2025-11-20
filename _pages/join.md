@@ -64,9 +64,10 @@ Please include:
 
 **Notes on programs and timing**
 
-- Undergraduate research positions are primarily available to students enrolled at the University of Lethbridge.
 - If you are a U Lethbridge undergraduate student interested in joining my group as a Summer Research Intern, **please contact me before early December**.
 This timeline is crucial for students applying to undergraduate research scholarships such as the NSERC USRA, Chinook Summer Research Award, or the Alberta Innovates Summer Research Studentship.
+
+- External students are welcome to get in touch to explore possible short-term research interactions. Please note, however, that funded internship opportunities are primarily available to U Lethbridge students due to program requirements.
 
 ---
 
