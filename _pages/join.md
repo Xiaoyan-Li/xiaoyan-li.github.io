@@ -64,8 +64,9 @@ Please include:
 
 **Notes on programs and timing**
 
-- University of Lethbridge students: please reach out well in advance of summer deadlines. You may be eligible for funding through programs such as the **NSERC Undergraduate Student Research Award (USRA)** or the **Alberta Innovates Chinook Summer Award**.  
-- International undergraduate interns are welcome to email me to discuss possibilities and timelines.
+- Undergraduate research positions are primarily available to students enrolled at the University of Lethbridge.
+- If you are a U Lethbridge undergraduate student interested in joining my group as a Summer Research Intern, **please contact me before early December**.
+This timeline is crucial for students applying to undergraduate research scholarships such as the NSERC USRA, Chinook Summer Research Award, or the Alberta Innovates Summer Research Studentship.
 
 ---
 
